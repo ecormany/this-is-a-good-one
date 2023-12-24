@@ -68,6 +68,7 @@ I keep on the lookout for that phrase. And now I've finally put together a list 
 * [254b: Werner Herzog’s Fire Tornado](https://www.theincomparable.com/bonustrack/254b/)
 
 ## Reconcilable Differences
+* [222: It’s Captured My Almonds](https://www.relay.fm/rd/222)
 * 194: Hard Four – [Members-only version](https://www.relay.fm/membership)
 * [193: The Wrong Helen](https://www.relay.fm/rd/193)
 * [164: Casual Injustices](https://www.relay.fm/rd/164) **(4x combo!)**
@@ -83,6 +84,7 @@ I keep on the lookout for that phrase. And now I've finally put together a list 
 [0]: https://www.relay.fm/rd/162
 
 ## Roderick on the Line
+* [519: Even Doves Have Pride](http://www.merlinmann.com/roderick/ep-519-even-doves-have-pride.html)
 * [515: Existential Plasticity](http://www.merlinmann.com/roderick/ep-515-existential-plasticity.html) (2x combo)
 * [514: Q.R. Crabs](http://www.merlinmann.com/roderick/ep-514-qr-crabs.html)
 * [484: Chief Technical Chief](http://www.merlinmann.com/roderick/ep-484-chief-technical-chief.html)
