@@ -81,8 +81,6 @@ I keep on the lookout for that phrase. And now I've finally put together a list 
 * [42: The Punching in Me](https://www.relay.fm/rd/42)
 * [34: All These Assistant Principals are Now Dead](https://www.relay.fm/rd/34)
 
-[0]: https://www.relay.fm/rd/162
-
 ## Roderick on the Line
 * [519: Even Doves Have Pride](http://www.merlinmann.com/roderick/ep-519-even-doves-have-pride.html)
 * [515: Existential Plasticity](http://www.merlinmann.com/roderick/ep-515-existential-plasticity.html) (2x combo)
