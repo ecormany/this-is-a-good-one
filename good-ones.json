@@ -260,7 +260,7 @@
     {
         "show": "Do By Friday",
         "number": "138",
-        "title": "You\u2019re Dirty and God Hates You",
+        "title": "You're Dirty and God Hates You",
         "url": "http://dobyfriday.com/episodes/138"
     },
     {
@@ -304,6 +304,12 @@
         "number": "254b",
         "title": "Werner Herzog\u2019s Fire Tornado",
         "url": "https://www.theincomparable.com/bonustrack/254b/"
+    },
+    {
+        "show": "Overtired",
+        "number": "402",
+        "title": "Emotional Sweep with Merlin Mann",
+        "url": "https://overtiredpod.com/ep/402/"
     },
     {
         "show": "Reconcilable Differences",
