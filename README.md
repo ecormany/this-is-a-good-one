@@ -1,6 +1,6 @@
 # “This is a good one.”
 
-[Merlin Mann][1] is definitely my favorite podcaster. I've been listening to him for over a decade(!), since the original run of You Look Nice Today.
+[Merlin Mann][1] is definitely my favorite podcaster. I've been listening to him for over <s>a decade(!)</s> _fifteen years_, since the original run of You Look Nice Today.
 
 [1]: http://www.merlinmann.com
 
