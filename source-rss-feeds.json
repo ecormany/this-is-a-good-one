@@ -1,0 +1,34 @@
+[
+    {
+        "show": "Back to Work",
+        "feed-url": "https://www.backtowork.limo/rss"
+    },
+    {
+        "show": "California King",
+        "feed-url": "https://www.californiaking.org/rss"
+    },
+    {
+        "show": "Do By Friday",
+        "feed-url": "https://feeds.simplecast.com/5nKJV82u"
+    },
+    {
+        "show": "The Incomparable",
+        "feed-url": "https://feeds.theincomparable.com/bonustrack"
+    },
+    {
+        "show": "Overtired",
+        "feed-url": "https://overtiredpod.com/feed/podcast/"
+    },
+    {
+        "show": "Reconcilable Differences",
+        "feed-url": "https://www.relay.fm/rd/feed"
+    },
+    {
+        "show": "Roderick on the Line",
+        "feed-url": "http://feeds.feedburner.com/RoderickOnTheLine"
+    },
+    {
+        "show": "You Look Nice Today",
+        "feed-url": "http://feeds.feedburner.com/YouLookNiceToday"
+    }
+]
