@@ -87,6 +87,7 @@ I keep on the lookout for that phrase. And now I've finally put together a list 
 * [34: All These Assistant Principals are Now Dead](https://www.relay.fm/rd/34)
 
 ## Roderick on the Line
+* [528: The Biggest Indoor Building in the World](http://www.merlinmann.com/roderick/ep-528-the-biggest-indoor-building-in-the-world.html)
 * [519: Even Doves Have Pride](http://www.merlinmann.com/roderick/ep-519-even-doves-have-pride.html)
 * [515: Existential Plasticity](http://www.merlinmann.com/roderick/ep-515-existential-plasticity.html) (2x combo)
 * [514: Q.R. Crabs](http://www.merlinmann.com/roderick/ep-514-qr-crabs.html)
