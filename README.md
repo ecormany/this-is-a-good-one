@@ -88,6 +88,7 @@ I keep on the lookout for that phrase. And now I've finally put together a list 
 * [34: All These Assistant Principals are Now Dead](https://www.relay.fm/rd/34)
 
 ## Roderick on the Line
+* [540: Appointed Holes](http://www.merlinmann.com/roderick/ep-540-appointed-holes.html)
 * [529: Not Everything is Everything](http://www.merlinmann.com/roderick/ep-529-not-everything-is-everything.html) (2x combo)
 * [528: The Biggest Indoor Building in the World](http://www.merlinmann.com/roderick/ep-528-the-biggest-indoor-building-in-the-world.html)
 * [519: Even Doves Have Pride](http://www.merlinmann.com/roderick/ep-519-even-doves-have-pride.html)
